@@ -70,3 +70,30 @@
 | expose           | Visually check for exposed contacts.                                                                 | freiliegend              |
 | plate            | Align the I/O connectors on the back of the motherboard with the openings in the I/O plate.          | Platte                   |
 | standoff         | Align the screw holes of the motherboard with the standoffs.                                         | Abstandshalter / -bolzen |
+
+---
+
+| English                    | Deutsch                                                                 |
+| -------------------------- | ----------------------------------------------------------------------- |
+| to perceive                | wahrnehmen                                                              |
+| notion                     | Vorstellung                                                             |
+| to capitalize on something | sich etwas zunutze machen                                               |
+| unpredictable              | unberechenbar                                                           |
+| to emerge                  | auftauchen                                                              |
+| shift in direction         | Richtungswechsel                                                        |
+| distinction                | Unterscheidung                                                          |
+| accomplishment             | Leistung, Errungenschaft                                                |
+| reliability                | Verlässlichkeit                                                         |
+| confidence                 | Vertrauen                                                               |
+| to arise                   | aufkommen                                                               |
+| to reason                  | logisch denken, argumentieren                                           |
+| to derive                  | ableiten                                                                |
+| eventually                 | schließlich                                                             |
+| habitual                   | gewohnheitsmäßig                                                        |
+| to emphasize               | betonen                                                                 |
+| scheduled                  | geplant                                                                 |
+| cut in line                | vordrängeln                                                             |
+| pop in                     | vorbeischauen                                                           |
+| underperform               | hinter den Erwartungen zurückbleiben, unterdurchschnittlich abschneiden |
+| persuade                   | überzeugen, jmd. zu etwas bewegen                                       |
+| recommendations            | Empfehlungen                                                            |

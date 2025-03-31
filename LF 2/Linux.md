@@ -68,7 +68,26 @@ Benutzer werden in Gruppen organisiert. Die Benutzerrechte werden durch die Date
 Linux ist ein Mehrbenutzersystem, das eine starke Prozessverwaltung bietet. Jeder Prozess hat eine eindeutige Prozess-ID (PID), und du kannst Prozesse mit Tools wie ps, top und kill überwachen und steuern.
 
 ---
+## Commands
 
+| Beschreibung                                              | Befehl            |
+| --------------------------------------------------------- | ----------------- |
+| Einloggen als Root                                        | sudo su / su root |
+| Neues Verzeichnis anlegen                                 | mkdir             |
+| Verzeichnis löschen                                       | rmdir             |
+| In ein Verzeichnis wechseln                               | cd                |
+| Zum übergeordneten Verzeichnis wechseln                   | cd ..             |
+| Inhalt eines Ordners anzeigen                             | ls                |
+| Ordnerstruktur rekursiv anzeigen                          | ls -R             |
+| Details zum Inhalt anzeigen (Rechte, Dateityp)            | ls -l             |
+| Benutzer einer Gruppe zuordnen                            | usermod           |
+| Zugriffsrechte ändern (Lesen, Schreiben, Ausführen)       | chmod             |
+| Datei erstellen                                           | touch             |
+| Dateiinhalt anzeigen                                      | cat / nano        |
+| Gruppeninformationen anzeigen (in der Datei "/etc/group") | cat /etc/group    |
+| Passwort eines Benutzers ändern                           | passwd            |
+
+---
 ## Fazit
 
 Linux bietet eine hohe Flexibilität und Sicherheit durch die Trennung von Benutzerrechten und der Open-Source-Natur. Das Verständnis der Verzeichnisstruktur, Zugriffsrechte und Systemverwaltung ist entscheidend für die Arbeit mit Linux, besonders bei administrativen Aufgaben.
