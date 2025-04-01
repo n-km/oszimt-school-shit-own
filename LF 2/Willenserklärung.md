@@ -8,6 +8,7 @@ tags:
 
 Eine Willenserklärung zielt auf eine Rechtsfolge ab. Sie ist ein zentrales Element im Zivilrecht und bestimmt, wie Rechtsgeschäfte zustande kommen.
 
+![[Pasted image 20250401131718.png]]
 ## Bestandteile einer Willenserklärung
 
 Eine Willenserklärung lässt sich grundsätzlich in einen objektiven und einen subjektiven Tatbestand unterteilen.
