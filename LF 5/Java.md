@@ -15,5 +15,5 @@ int myInt = myScan.nextInt();
 - `myInt`: Speichert die eingegebene positive Zahl.
 
 ---
-
+#scanner
 

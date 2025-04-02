@@ -1,5 +1,7 @@
 https://umletino.com/umletino.html
 
+
+
 ![[Diagram 2025-03-13 12-49-27.png]]
 
 Beispiel
@@ -10,5 +12,5 @@ Beispiel
 OOA und OOD
 ![[Pasted image 20250313142528.png]] 
 
-OD
+OD![[OD.png]]
 ![[OD.png]]

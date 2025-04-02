@@ -31,14 +31,14 @@
 
 ## Vergleichstabelle Marktformen
 
-| Merkmal         | Polypol | Oligopol | Monopol   |
-|-----------------|---------|----------|-----------|
-| Anzahl Anbieter | Viele   | Wenige   | Einer     |
-| Preisbildung    | Marktgesteuert | Strategisch | Anbietergesteuert |
-| Markteintritt   | Einfach | Schwierig| Blockiert |
-| Wettbewerb      | Hoch    | Mittel   | Keiner    |
-| Regulierung     | Gering  | Mittel   | Stark     |
-| Marktmacht      | Gering  | Erheblich| Maximal   |
+| Merkmal          | Polypol        | Oligopol    | Monopol           |
+| ---------------- | -------------- | ----------- | ----------------- |
+| Anzahl Anbieter  | Viele          | Wenige      | Einer             |
+| Preisbildung     | Marktgesteuert | Strategisch | Anbietergesteuert |
+| Markteintritt    | Einfach        | Schwierig   | Blockiert         |
+| Wettbewerb       | Hoch           | Mittel      | Keiner            |
+| Regulierung      | Gering         | Mittel      | Stark             |
+| Marktmacht       | Gering         | Erheblich   | Maximal           |
 
 # Wettbewerb
 

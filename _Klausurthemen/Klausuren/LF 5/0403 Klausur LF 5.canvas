@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"1eabc910ab51d2aa","type":"text","text":"### Klausur LF 5 - Themen","x":-140,"y":-60,"width":280,"height":60,"color":"6"},
+		{"id":"0ee0a9d00b217401","type":"text","text":"[[Methoden]]","x":-140,"y":-220,"width":250,"height":60},
+		{"id":"8235844aa8b032d9","type":"text","text":"[[Arrays]]\n[[Arrays visual]]","x":220,"y":-120,"width":250,"height":90},
+		{"id":"47c8fe28dcfecbff","type":"file","file":"LF 5/Arrays & Methoden/Methoden.md","x":-120,"y":-700,"width":580,"height":400},
+		{"id":"b74d813e90633e5d","type":"file","file":"LF 5/Arrays & Methoden/Arrays.md","x":580,"y":-400,"width":420,"height":400},
+		{"id":"12b9be7e65c457e8","type":"file","file":"LF 5/Arrays & Methoden/Arrays visual.md","x":520,"y":100,"width":400,"height":400},
+		{"id":"c3c3ef423fc5e0dd","type":"text","text":"Grundlagen der Objektorientierung\n[[OOP]]","x":-140,"y":160,"width":250,"height":80},
+		{"id":"0a30c627cd7250b3","type":"text","text":"Objektorientierte Diagramme\n[[OD OOA OOD Diagrammen]]","x":-565,"y":-180,"width":250,"height":120},
+		{"id":"78150dd5939e66b4","type":"file","file":"LF 5/OD OOA OOD Diagrammen.md","x":-1200,"y":-460,"width":400,"height":400},
+		{"id":"6302bf2d27c2ee7b","type":"file","file":"LF 5/OOP.md","x":-640,"y":160,"width":400,"height":400},
+		{"id":"7c5f5271d0b9bc7f","type":"file","file":"LF 5/OD OOA OOD Aufgabe.md","x":-715,"y":-800,"width":400,"height":400},
+		{"id":"6b543e797f5414db","type":"text","text":"### Checklist\n- [x] Grundlagen der Objektorientierung\n- [x] Objektorientierte Diagramme\n- [x] Methoden\n- [ ] Arrays","x":-1200,"y":130,"width":385,"height":220}
+	],
+	"edges":[
+		{"id":"61d27875d89a4faf","fromNode":"1eabc910ab51d2aa","fromSide":"right","toNode":"8235844aa8b032d9","toSide":"left"},
+		{"id":"c8fcee0ba15715a2","fromNode":"1eabc910ab51d2aa","fromSide":"top","toNode":"0ee0a9d00b217401","toSide":"bottom"},
+		{"id":"c600c885194deeed","fromNode":"0ee0a9d00b217401","fromSide":"top","toNode":"47c8fe28dcfecbff","toSide":"bottom"},
+		{"id":"b74b130be44f12aa","fromNode":"8235844aa8b032d9","fromSide":"right","toNode":"b74d813e90633e5d","toSide":"left"},
+		{"id":"9d289fddb4561b9b","fromNode":"8235844aa8b032d9","fromSide":"bottom","toNode":"12b9be7e65c457e8","toSide":"left"},
+		{"id":"d883d2b4bf6ca3d9","fromNode":"1eabc910ab51d2aa","fromSide":"bottom","toNode":"c3c3ef423fc5e0dd","toSide":"top"},
+		{"id":"3f45986b9d4c17d2","fromNode":"c3c3ef423fc5e0dd","fromSide":"left","toNode":"6302bf2d27c2ee7b","toSide":"right"},
+		{"id":"4b7e2a5b83fe4a06","fromNode":"1eabc910ab51d2aa","fromSide":"left","toNode":"0a30c627cd7250b3","toSide":"right"},
+		{"id":"9ced5a7e56f1575b","fromNode":"0a30c627cd7250b3","fromSide":"left","toNode":"78150dd5939e66b4","toSide":"right"},
+		{"id":"34897b71877f2088","fromNode":"0a30c627cd7250b3","fromSide":"top","toNode":"7c5f5271d0b9bc7f","toSide":"bottom"},
+		{"id":"04a21670fbef61f5","fromNode":"1eabc910ab51d2aa","fromSide":"bottom","toNode":"6b543e797f5414db","toSide":"top"}
+	]
+}

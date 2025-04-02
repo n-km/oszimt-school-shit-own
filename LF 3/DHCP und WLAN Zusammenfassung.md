@@ -31,17 +31,28 @@
 | **Wireless Bridging (ESS)**   | Mehrere APs bilden ein erweitertes WLAN.                                      |
 
 ## DHCP-Client Anfrage an Server
-- **Discover**: Client sendet Broadcast
-- **Offer**: DHCP-Server antwortet
-- **Request**: Client fordert IP-Adresse an
-- **ACK**: DHCP-Server bestätigt
+- **Discover (Entdecken)**: Client sendet Broadcast
+- **Offer (Angebot)**: DHCP-Server antwortet
+- **Request (Nachfrage)**: Client fordert IP-Adresse an
+- **ACK (Bestätigung)**: DHCP-Server bestätigt
+
+```mermaid
+sequenceDiagram
+
+    Client-->>+DHCP Server: Discover
+    DHCP Server->>+Client: Offer
+    Client-->>+DHCP Server: Request
+    DHCP Server->>-Client: Acknowledgment
+```
 
 ## Wichtige DHCP-Parameter
-- IP-Adresse
-- Subnetzmaske
-- Standard-Gateway
-- DNS-Server
-- Lease Time
+| Parameter        | Definition                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| IP-Adresse       | Eindeutige Adresse eines Geräts in einem Netzwerk.                                               |
+| Subnetzmaske     | Definiert den **Netzwerk**- und _Hostanteil_ einer IP-Adresse.<br>Beispiel: **192.168**._150.33_ |
+| Standard-Gateway | Router-Adresse für den Zugriff auf andere Netzwerke.                                             |
+| DNS-Server       | Übersetzt Domainnamen in IP-Adressen.                                                            |
+| Lease Time       | Dauer, für die eine IP-Adresse per DHCP zugewiesen wird.                                         |
 
 ## WLAN-Topologien
 - **Ad-hoc**: Direkte Kommunikation
