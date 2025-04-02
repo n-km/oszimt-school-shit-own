@@ -44,20 +44,20 @@
 ---
 ## Social-Engineering-Tricks:
 
-- **Vortäuschung:** Methode, bei der sich der Täter durch geschickte Gesprächsführung als eine wichtige Person ausgibt
-- **Köderangriff:** Methode, bei der ein Köder, z.B. ein kostenloser Download, eingesetzt wird
-- **Attraktivitätsangriff:** Methode, bei der eine attraktive Person eingesetzt wird, um an Informationen zu kommen
-- **Telefon-Phishing (Vishing):** Methode, bei der dem Opfer per Telefonanruf Informationen entlockt werden sollen
-- **Autoritätsmissbrauch:** Methode, bei der sich jemand z.B. als Chef ausgibt
+- **pretexting:** Methode, bei der sich der Täter durch geschickte Gesprächsführung als eine wichtige Person ausgibt
+- **baiting:** Methode, bei der ein Köder, z.B. ein kostenloser Download, eingesetzt wird
+- **honeypot:** Methode, bei der eine attraktive Person eingesetzt wird, um an Informationen zu kommen
+- **vishing:** Methode, bei der dem Opfer per Telefonanruf Informationen entlockt werden sollen
+- **CEO-Fraud:** Methode, bei der sich jemand z.B. als Chef ausgibt
 - **Shoulder Surfing:** Methode eines Angriffs durch heimliches über die Schulter gucken
-- **Vorwandangriff (Pretexting):** Methode, sich durch Vortäuschen einer falschen Identität Zutritt zu einem geschützten Bereich zu verschaffen
-- **Dumpster Diving:** Methode, bei der nach Informationen in Mülleimern gesucht wird
-- **SMS-Phishing (Smishing):** Methode, bei der Textdienste, SMS, WhatsApp, etc. für den Angriff benutzt werden
-- **Tailgating:** Methode, bei der jemand, unerlaubt jemand anderen hinterherschleicht
-- **Infizierter USB-Stick:** Methode, bei der ein infiziertes Speichergerät, z.B. USB-Stick bewusst platziert wird
-- **Phishing:** Methode, bei der die Attacke über eine gefälschte Webseite abläuft
+- **Tailgating:** Methode, sich durch Vortäuschen einer falschen Identität Zutritt zu einem geschützten Bereich zu verschaffen
+- **Trashing:** Methode, bei der nach Informationen in Mülleimern gesucht wird
+- **Smishing:** Methode, bei der Textdienste, SMS, WhatsApp, etc. für den Angriff benutzt werden
+- **Piggybacking:** Methode, bei der jemand, unerlaubt jemand anderen hinterherschleicht
+- **Media Dropping:** Methode, bei der ein infiziertes Speichergerät, z.B. USB-Stick bewusst platziert wird
+- **Pharming:** Methode, bei der die Attacke über eine gefälschte Webseite abläuft
 - **Whaling:** Methode, bei der ein hochrangiges Ziel attakiert wird
-- **Quid pro quo:** Methode, bei der dem Opfer ein Tauschobjekt, z.B. ein kostenloses Programm, angeboten wird.
+- **Quid pro Quo:** Methode, bei der dem Opfer ein Tauschobjekt, z.B. ein kostenloses Programm, angeboten wird.
 
 ---
 ![[Pasted image 20250402104021.png]]
