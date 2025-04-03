@@ -1,0 +1,50 @@
+{
+  "version": "0.13.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "Tasks - Ready [NOT]"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 1,
+              "limit": 10,
+              "name": "Tasks - Ready"
+            }
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "School",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "filters": [],
+      "firstDayOfWeek": "FromLocale",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
+    }
+  }
+}

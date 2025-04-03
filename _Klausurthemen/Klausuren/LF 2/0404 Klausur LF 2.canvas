@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"239dbea51d3cc347","type":"text","text":"Klausur LF 2 - Themen","x":-160,"y":-80,"width":250,"height":60,"color":"4"},
+		{"id":"26a13c7dcc33b031","type":"text","text":"Linux","x":-500,"y":50,"width":250,"height":60},
+		{"id":"a34b06c425c1df67","type":"text","text":"Lizenzmodelle","x":-500,"y":-210,"width":250,"height":60},
+		{"id":"4c3a4042a9168684","type":"text","text":"Virtualisierung","x":180,"y":-210,"width":250,"height":60},
+		{"id":"843a44d0614e7347","type":"text","text":"Drucker","x":180,"y":50,"width":250,"height":60},
+		{"id":"42e07c770625ac62","type":"text","text":"\n\n### **Lizenzen** - Liste\n\n| Nr  | Lizenz                          | Beschreibung                                                                  |\n| --- | ------------------------------- | ----------------------------------------------------------------------------- |\n| 1   | Einzellizenz                    | vollständig, ohne schriftliche Vertragsunterzeichnung                         |\n| 2   | Volumenlizenz                   | Bezug von Mehrfachlizenzen für große Systeme, für Unternehmen                 |\n| 3   | Parallellizenz                  | Nutzung auf festgelegten Anzahl von Computern                                 |\n| 4   | Arbeitsplatzlizenz              | Installation und Nutzung auf festgelegten Anzahl von Computern                |\n| 5   | Benutzergebundene Lizenz        | bestimmten Benutzer zugewiesen                                                |\n| 6   | Serverlizenz                    | Installation und Nutzung von Software auf einem Server                        |\n| 7   | ASP-Lizenz                      | Erlaubt Hosten von Software auf zentralen Server (Nutzung: Mitarbeiter)       |\n| 8   | Betalizenz                      | Testen eines Produkts vor der Veröffentlichung                                |\n| 9   | Lizensierung Ausbildung/Behörde | vergünstigte/spezielle Lizenzkoditionen                                       |\n| 10  | General-Public-Lizenz (GPL)     | freie Nutzung und Veränderung der Software (an kundenspezifische Bedürfnisse) |\n| 11  | Lizenz für OS in VM             | eigene Lizenz für OS in einer VM wird benötigt                                |\n","x":-840,"y":-760,"width":680,"height":470},
+		{"id":"c0b1987dff15ce4d","type":"file","file":"LF 2/Linux.md","x":-650,"y":220,"width":400,"height":400},
+		{"id":"716f02c28ea850ff","type":"file","file":"LF 2/Lizenzen.md","x":-1050,"y":-250,"width":400,"height":400},
+		{"id":"ae71bf17475d89cc","type":"file","file":"LF 2/Virtualisierung.md","x":180,"y":-690,"width":400,"height":400},
+		{"id":"991678eefb5c2f34","type":"file","file":"LF 2/Drucker.md","x":160,"y":220,"width":400,"height":400},
+		{"id":"c14bcc319d3e88c3","type":"text","text":"### Checklist\n\n- [ ] Lizenzen\n- [ ] Linux \n- [ ] Drucker\n- [ ] Virtualisierung\n","x":700,"y":110,"width":260,"height":200},
+		{"id":"bdc23ea65391f89a","x":1060,"y":100,"width":200,"height":200,"type":"text","text":"### **Links**\n\n[[Lizenzen]] \n[[Linux]]\n[[Drucker]]\n[[Virtualisierung]]\n"}
+	],
+	"edges":[
+		{"id":"0c0df5d50604e524","fromNode":"239dbea51d3cc347","fromSide":"top","toNode":"a34b06c425c1df67","toSide":"bottom"},
+		{"id":"8f4df5585a248a6e","fromNode":"239dbea51d3cc347","fromSide":"top","toNode":"4c3a4042a9168684","toSide":"bottom"},
+		{"id":"ec836cdd34c20ade","fromNode":"239dbea51d3cc347","fromSide":"bottom","toNode":"26a13c7dcc33b031","toSide":"top"},
+		{"id":"bcb105ea93e23216","fromNode":"239dbea51d3cc347","fromSide":"bottom","toNode":"843a44d0614e7347","toSide":"top"},
+		{"id":"1f85b97ba6dff017","fromNode":"a34b06c425c1df67","fromSide":"top","toNode":"42e07c770625ac62","toSide":"bottom"},
+		{"id":"e267f7415ad01037","fromNode":"26a13c7dcc33b031","fromSide":"bottom","toNode":"c0b1987dff15ce4d","toSide":"top"},
+		{"id":"1daea77ac04f6c2f","fromNode":"a34b06c425c1df67","fromSide":"left","toNode":"716f02c28ea850ff","toSide":"right"},
+		{"id":"cb3352ef552b46b4","fromNode":"4c3a4042a9168684","fromSide":"top","toNode":"ae71bf17475d89cc","toSide":"bottom"},
+		{"id":"204dfb0036b1b44e","fromNode":"843a44d0614e7347","fromSide":"bottom","toNode":"991678eefb5c2f34","toSide":"top"},
+		{"id":"f62bbaf94ccc385f","fromNode":"239dbea51d3cc347","fromSide":"right","toNode":"c14bcc319d3e88c3","toSide":"top","color":"5"},
+		{"id":"cbda39cb06b79bf7","fromNode":"239dbea51d3cc347","fromSide":"right","toNode":"bdc23ea65391f89a","toSide":"top","color":"2"}
+	]
+}
