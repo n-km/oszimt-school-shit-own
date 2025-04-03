@@ -1,17 +1,17 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "Klausur",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16711680
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 15.0906444906445,
   "linkStrength": 1,
   "linkDistance": 478,
-  "scale": 0.06572368933203733,
+  "scale": 0.06434320803574724,
   "close": false
 }

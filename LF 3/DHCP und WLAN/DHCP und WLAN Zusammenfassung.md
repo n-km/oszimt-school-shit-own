@@ -44,7 +44,7 @@ sequenceDiagram
     Client-->>+DHCP Server: Request
     DHCP Server->>-Client: Acknowledgment
 ```
-
+#dhcp #wlan
 ## Wichtige DHCP-Parameter
 | Parameter        | Definition                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------ |

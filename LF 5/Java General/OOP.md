@@ -23,3 +23,5 @@ https://umletino.com/umletino.html
 ![[oo2.png]]
 
 ![[oo4.png]]
+
+[[OD OOA OOD Diagrammen]]

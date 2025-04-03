@@ -125,3 +125,5 @@ Nutze diese Tabelle zur schnellen Orientierung:
 | x   | x   | x   | -   | -   | -   | -   | -   | 1110 0000 | 224      |
 128 + 64 = 192
 192 + 32 = 224
+
+#umrechnung-HexDezBin
