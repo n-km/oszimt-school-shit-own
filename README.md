@@ -2,7 +2,13 @@ Obsidian Dateien von FI-A46..
 
 God bless us 
 
+### Momentan benutzte Plug-In's:
+- Kanban
+- Home
 
+### Einstellungen:
+- Ändern von Erstellung der Daily Note -> ````_Days````
+---
 ### Regeln für Merge:
 - eine Datei mit Thema im Überschrift
 - Tag-datei im Ordner Days, wo alle Themes des Tages sind
@@ -10,7 +16,7 @@ God bless us
 
 ---
 
-### Branch naming
+### Branch naming:
 
 Leistungfach + Datum 
 
@@ -23,3 +29,4 @@ Brnachname wäre **lf21405**
 **Commit message einfach thema oder Datum** 
 
 ---
+

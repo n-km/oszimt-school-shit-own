@@ -33,27 +33,41 @@ chmod 755 datei.txt    # Besitzer: rwx, Gruppe: r-x, Andere: r-x
 5. Keine Laufwerksbuchstaben
     Anders als Windows verwendet Linux keine Laufwerksbuchstaben (z.B. C: oder D:), sondern eine einzige Verzeichnisstruktur, die mit dem Wurzelverzeichnis / beginnt.
 
+
+### Zugriffsrechtetabelle:
+| Wert | Recht |
+| ---- | ----- |
+| `0`  | Keine |
+| `1`  | x     |
+| `2`  | w     |
+| `3`  | w+x   |
+| `4`  | r     |
+| `5`  | r+x   |
+| `6`  | r+w   |
+| `7`  | r+w+x |
+
+
 ---
 
 ## Wichtige Linux-Verzeichnisse
 
-| Verzeichnis   | Beschreibung                                                                 |
-|---------------|-----------------------------------------------------------------------------|
-| /root         | Admin- bzw. Superuser-Verzeichnis                                            |
-| /proc         | Für Prozess- und Systemverwaltung                                            |
-| /lost+found   | Enthält Dateifragmente nach Dateisystem-Wiederherstellung                     |
-| /bin          | Essentielle Programme, z.B. shutdown                                          |
-| /dev          | Geräte-Treiber                                                               |
-| /etc          | Konfigurationsdateien, z.B. Passwortdatei                                     |
-| /boot         | Enthält Startdatei und Kernel                                                |
-| /home         | Benutzerverzeichnisse, z.B. von Frau Kramer oder Herrn Meier                 |
-| /server       | Verzeichnis für Dienste (z.B. Webserver)                                     |
-| /src          | Häufig für Quellcode, nicht direkt zugeordnet                                |
-| /lib          | Wichtige Bibliotheken und Befehle für alle, z.B. ls                         |
-| /mnt          | Zum Einhängen (Mounten) von Geräten                                          |
-| /usr          | Enthält Desktopumgebungen und weitere Systemprogramme                        |
-| /tmp          | Temporäre Dateien, wird beim Booten geleert                                  |
-| /sbin         | Wichtige Systembefehle für alle, z.B. ls, shutdown                           |
+| Verzeichnis | Beschreibung                                                 |
+| ----------- | ------------------------------------------------------------ |
+| /root       | Admin- bzw. Superuser-Verzeichnis                            |
+| /proc       | Für Prozess- und Systemverwaltung                            |
+| /lost+found | Enthält Dateifragmente nach Dateisystem-Wiederherstellung    |
+| /bin        | Essentielle Programme, z.B. shutdown                         |
+| /dev        | Geräte-Treiber                                               |
+| /etc        | Konfigurationsdateien, z.B. Passwortdatei                    |
+| /boot       | Enthält Startdatei und Kernel                                |
+| /home       | Benutzerverzeichnisse, z.B. von Frau Kramer oder Herrn Meier |
+| /server     | Verzeichnis für Dienste (z.B. Webserver)                     |
+| /src        | Häufig für Quellcode, nicht direkt zugeordnet                |
+| /lib        | Wichtige Bibliotheken und Befehle für alle, z.B. ls          |
+| /mnt        | Zum Einhängen (Mounten) von Geräten                          |
+| /usr        | Enthält Desktopumgebungen und weitere Systemprogramme        |
+| /tmp        | Temporäre Dateien, wird beim Booten geleert                  |
+| /sbin       | Wichtige Systembefehle für alle, z.B. ls, shutdown           |
 
 ---
 

@@ -4,48 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2f48aba1fc2920ca",
+        "id": "0f96dd39600e3540",
         "type": "tabs",
         "children": [
           {
-            "id": "ae461a33a7aac624",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas",
-                "viewState": {
-                  "x": 1160,
-                  "y": 200,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0404 Klausur LF 2"
-            }
-          },
-          {
-            "id": "48350b95f36dc2ec",
+            "id": "8ef2405a074eeeab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF 2/Lizenzen.md",
+                "file": "_Klausurthemen/LF 2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lizenzen"
+              "title": "LF 2"
             }
           },
           {
-            "id": "073587c5593ab752",
+            "id": "1839b0200822b0f0",
             "type": "leaf",
             "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
+              "type": "markdown",
+              "state": {
+                "file": "LF 2/VDR Kalkulationen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VDR Kalkulationen"
             }
           }
         ],
@@ -81,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#8aa7522",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,41 +183,44 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "48350b95f36dc2ec",
+  "active": "1839b0200822b0f0",
   "lastOpenFiles": [
+    "_Klausurthemen/LF 2.md",
+    "Home.md",
+    "ToDo List.md",
+    "README.md",
+    "LF 2/VDR Kalkulationen.md",
+    "_Days/_Days.md",
+    "_Days/2025-03-31.md",
     "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas",
+    "LF 2/Geräte/Drucker.md",
+    "LF 2/Linux.md",
+    "_Days/2025-04-03.md",
+    "LF 2/Geräte",
+    "Excalidraw/Drawing 2025-04-03 20.29.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-03 17.03.22.excalidraw.md",
     "LF 2/Lizenzen.md",
-    "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3.canvas",
-    "_Klausurthemen/Klausuren/LF 5/0403 Klausur LF 5.canvas",
-    "LF 2/Drucker.md",
     "LF 2/Virtualisierung.md",
     "2025-04-03.md",
-    "Home.md",
+    "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3.canvas",
+    "_Klausurthemen/Klausuren/LF 5/0403 Klausur LF 5.canvas",
     "LF 2/Willenserklärung.md",
-    "LF 2/Linux.md",
     "LF 3/IP-Adressen/IPv4-Adresse.md",
     "LF 3/dateien/WLAN-Topologie.pdf",
     "LF 3/DHCP und WLAN/DHCP und WLAN Zusammenfassung.md",
-    "_Days/2025-04-03.md",
-    "Excalidraw/Drawing 2025-04-03 17.03.22.excalidraw.md",
     "Excalidraw",
     "_Klausurthemen/Klausuren/LF 5/0403 Klausur LF 5 - Arrays lernen.md",
     "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3 - Wiederholungsübungen.md",
     "_Klausurthemen/LF 3.md",
-    "README.md",
     "LF WSK/Rechtsgeschäfte.md",
     "Sporttheorie/Doping.md",
     "WSK/Rechtsgeschäfte.md",
     "LF WSK/Rechts- und Geschäftsfähigkeit.md",
     "LF 5/Objektdiagramme/OOD.md",
-    "OD.md",
-    "LF 5/Objektdiagramme/OD OOA OOD Diagrammen.md",
-    "LF 5/Objektdiagramme/OD OOA OOD Aufgabe.md",
-    "LF 5/Assoziation.md",
-    "Pasted.md",
     "LF 5/_images/Pasted image 20250403122341.png",
     "LF 5/Objektdiagramme",
     "LF 5/Java General",
@@ -239,7 +229,6 @@
     "LF 3/dateien/WLAN-Grundlagen.pdf",
     "LF 3/dateien/WLAN-Sicherheit.pdf",
     "LF 3/DHCP und WLAN",
-    "LF 3/HexBinDez Umrechnung/HexBinDezApp/simple-website/js/script.js",
     "LF 3W/dateien/Pasted image 20250402123502.png",
     "LF WSK/docs/Pasted image 20250401100135.png",
     "LF WSK/docs/Pasted image 20250331144828.png",

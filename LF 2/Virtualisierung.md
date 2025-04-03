@@ -1,30 +1,36 @@
-1. Was ist **Virtualisierung**
 
-Software wird mittels Software nachgebildet, physische Strukturen (Materie) wird logisch nachgebaut, abstrahiert  
+## 1. Was ist **Virtualisierung**
+- **Definition:** Software wird mittels Software nachgebildet, physische Strukturen (Materie) wird logisch nachgebaut und abstrahiert.
 
-2. Was kann alles **virtualisiert** sein?
+## 2. Was kann alles **virtualisiert** sein?
+- Betriebssysteme
+- Netzwerke
+- Infrastruktur
+- Speicher
+- Welten über VR-Helm
+- Umgebungen
+- Geräte
+- Menschen (Avatar)
+- etc.
 
-Betriebssystem, Netzwerke, Infrastruktur, Speicher, Welten über VR-Helm, Umgebungen, Geräte, Menschen (Avatar), etc.
+## 3. Welche beiden **Verfahren** gibt es?
 
-3. Welche beiden **Verfahren** gibt es?
+| Verfahren  | Beschreibung                                       |
+| ---------- | -------------------------------------------------- |
+| Bare-Metal | Virtualisierung direkt auf Hardware                |
+| Hosted     | Virtualisierung auf Gast-Betriebssystem aufgesetzt |
 
-Bare-Metal = Virtualisierung direkt auf Hardware
-
-Hosted = Virtualisierung auf Gast-Betriebssystem aufgesetzt
-
-4. Welche **Vorteile** hat eine Virtualisierung?
-
-5. bessere Ressourcennutzung, weniger Speicher
-6. kostengünstig
-7. energiesparend
-8. umweltschonender
-9. höhere Ausfallsicherheit
-10. schneller, 
-11. mehr Bandbreite
-12. weniger Personalaufwand, einfache Administration
-13. einfach zu transportieren
-14. gut skalierbar
-15. günstig in Testumgebungen
-16. Backup einfach
-
-etc.
+## 4. Welche **Vorteile** hat eine Virtualisierung?
+- Bessere Ressourcennutzung, weniger Speicher
+- Kostengünstig
+- Energiesparend
+- Umweltschonender
+- Höhere Ausfallsicherheit
+- Schneller
+- Mehr Bandbreite
+- Weniger Personalaufwand, einfache Administration
+- Einfach zu transportieren
+- Gut skalierbar
+- Günstig in Testumgebungen
+- Einfaches Backup
+- etc.

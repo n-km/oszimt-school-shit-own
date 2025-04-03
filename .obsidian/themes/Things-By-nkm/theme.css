@@ -33,14 +33,22 @@ body {
   --orange: #e87d3e;
   --red: #e83e3e;
   --purple: #9e86c8;
-  --greenown: #8aa752;
 
-  --h1-color: var(--text-normal);
-  --h2-color: var(--greenown);
-  --h3-color: var(--blue);
-  --h4-color: var(--yellow);
-  --h5-color: var(--red);
-  --h6-color: var(--text-muted);
+  /*Change here by your own*/
+
+  --headerone: #ffffff; /*# 1 Header*/
+  --headertwo: #8aa752; /*# 2 Header*/
+  --headerthree: #2e80f2; /*# 3 Header*/
+  --headerfour: #e5b567; /*# 4 Header*/
+  --headerfive: #e83e3e; /*# 5 Header*/
+  --headersix: var(--text-muted); /*# 6 Header*/
+
+  --h1-color: var(--headerone);
+  --h2-color: var(--headertwo);
+  --h3-color: var(--headerthree);
+  --h4-color: var(--headerfour);
+  --h5-color: var(--headerfive);
+  --h6-color: var(--headersix);
 
   --strong-color: var(--pink);
   --em-color: var(--pink);
