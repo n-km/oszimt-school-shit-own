@@ -34,10 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas": "LiPrinter",
-  "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3.canvas": "LiCalculator",
   "_Klausurthemen/Klausuren/LF 5/0403 Klausur LF 5.canvas": "LiCoffee",
   "ToDo List.md": "LiListTodo",
   "Home.md": "LiHome",
-  "_Days/_Days.md": "LiCalendar"
+  "_Days/_Days.md": "LiCalendar",
+  "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas": "LiPrinter",
+  "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3.canvas": "LiCalculator"
 }
