@@ -26,10 +26,10 @@
 
 ## 5. 3D-Druck
 
-| Begriff   | Beschreibung                                                 |
-|-----------|--------------------------------------------------------------|
-| Bauraum   | Bereich, in dem ein Teil in einem 3D-Drucker gedruckt wird.  |
-| Filament  | Material, mit dem gedruckt wird.                             |
+| Begriff  | Beschreibung                                                |
+| -------- | ----------------------------------------------------------- |
+| Bauraum  | Bereich, in dem ein Teil in einem 3D-Drucker gedruckt wird. |
+| Filament | Material, mit dem gedruckt wird.                            |
 
 ## 6. Materialien
 

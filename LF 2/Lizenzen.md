@@ -30,19 +30,23 @@ Der Geschäftsführer kann sicherstellen, dass die Grundsätze der Softwarenutzu
 
 ## 7. Lizenztypen
 
-| Lizenztyp                  | Beschreibung                                                                          |
-|----------------------------|---------------------------------------------------------------------------------------|
-| Einzellizenz               | Lizenz für ein Produkt ohne schriftliche Vertragsunterzeichnung.                      |
-| Volumenlizenz              | Mehrfachlizenzen für große Systeme.                                                   |
-| Parallellizenz             | Nutzung einer Software-Instanz auf mehreren Computern.                                |
-| Arbeitsplatzlizenz         | Nutzung auf einer bestimmten Anzahl von Arbeitsplätzen.                               |
-| Benutzergebundene Lizenz   | Lizenz, die einem spezifischen Nutzer zugewiesen ist.                                 |
-| Serverlizenz               | Nutzung von Software auf einem Server.                                                |
-| ASP-Lizenz                 | Hosten von Software auf einem zentralen Server zur Nutzung durch Mitarbeiter.         |
-| Betalizenz                 | Testen eines Produkts vor der Veröffentlichung.                                       |
+| Lizenztyp                                        | Beschreibung                                                                       |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Einzellizenz                                     | Lizenz für ein Produkt ohne schriftliche Vertragsunterzeichnung.                   |
+| Volumenlizenz                                    | Mehrfachlizenzen für große Sx                                                      |
+| Parallellizenz                                   | Nutzung einer Software-Instanz auf mehreren Computern.                             |
+| Arbeitsplatzlizenz                               | Nutzung auf einer bestimmten Anzahl von Arbeitsplätzen.                            |
+| Benutzergebundene Lizenz                         | Lizenz, die einem spezifischen Nutzer zugewiesen ist.                              |
+| Serverlizenz                                     | Nutzung von Software auf einem Server.                                             |
+| ASP-Lizenz                                       | Hosten von Software auf einem zentralen Server zur Nutzung durch Mitarbeiter.      |
+| Betalizenz                                       | Testen eines Produkts vor der Veröffentlichung.                                    |
 | Lizenzierung für Ausbildungsstätten und Behörden | Vergünstigte oder spezielle Lizenzkonditionen für Ausbildungsstätten und Behörden. |
-| General-Public-Lizenz (GPL)| Freie Nutzung und Veränderung der Software.                                           |
-| Lizenz für Betriebssystem in einer VM | Ein Betriebssystem auf einer virtuellen Maschine benötigt eine eigene Lizenz. |
+| General-Public-Lizenz (GPL)                      | Freie Nutzung und Veränderung der Software.                                        |
+| Lizenz für Betriebssystem in einer VM            | Ein Betriebssystem auf einer virtuellen Maschine benötigt eine eigene Lizenz.      |
+## 7. Was ist eine EULA?
+- (End User License Agreement) 
+
+- Ist ein Endbenutzerlizenzvertrag. Bestimmt Berechtigungen der Nutzer
 
 ---
 
