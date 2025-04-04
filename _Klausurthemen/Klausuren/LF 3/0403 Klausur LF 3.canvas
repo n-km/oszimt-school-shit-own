@@ -2,18 +2,18 @@
 	"nodes":[
 		{"id":"5e15373fd0aa6f11","type":"text","text":"### Klausur LF 3 - Themen","x":-200,"y":-120,"width":280,"height":60,"color":"4"},
 		{"id":"d2df849c81856fbe","type":"text","text":"- [[OSI Schichtenmodell]]\n\t- Transportschicht\n\t- Anwendungsschicht","x":-580,"y":-220,"width":290,"height":130},
-		{"id":"0a07f66f33ff95a2","type":"file","file":"LF 3/OSI Schichtenmodell.md","x":-1040,"y":-320,"width":400,"height":400},
+		{"id":"0a07f66f33ff95a2","type":"file","file":"LF 3/OSI/OSI Schichtenmodell.md","x":-1040,"y":-320,"width":400,"height":400},
 		{"id":"dce6ba7a45e0f76e","type":"text","text":"- [[DHCP und WLAN Zusammenfassung]]\n- [[LF 3/WLAN]]\n- [[LF 3/WLAN-Sicherheit]]","x":160,"y":-255,"width":250,"height":136},
 		{"id":"6cb1833513cd767a","type":"file","file":"LF 3/DHCP und WLAN/WLAN-Sicherheit.md","x":-150,"y":-755,"width":400,"height":400},
 		{"id":"a497a8219557194a","type":"file","file":"LF 3/DHCP und WLAN/DHCP und WLAN Zusammenfassung.md","x":480,"y":-620,"width":400,"height":400},
-		{"id":"b9970d77b4238d83","type":"file","file":"LF 3/OSI-Modell.md","x":-600,"y":-655,"width":400,"height":400},
+		{"id":"b9970d77b4238d83","type":"file","file":"LF 3/OSI/OSI-Modell.md","x":-600,"y":-655,"width":400,"height":400},
 		{"id":"276f8ea5e028fc26","type":"text","text":"## Fokus: Transportschicht 🛫\n\n- **Protokolle:**\n    - **TCP**: Verbindungsorientiert, zuverlässige Datenübertragung.\n    - **UDP**: Verbindungslos, schneller, aber weniger zuverlässig.\n- **Aufgaben:**\n    - **Segmentierung**: Daten werden in kleinere Pakete zerlegt.\n    - **Flusskontrolle**: Steuerung der Übertragungsrate.\n    - **Fehlerkontrolle**: Sicherstellung der korrekten Übertragung.\n\n---\n\n## Fokus: Anwendungsschicht 💻\n\n- **Hauptaufgabe:**\n    - Bereitstellung von Protokollen für die Interaktion mit Anwendungen.\n- **Typische Protokolle:**\n    - **HTTP/HTTPS**: Webkommunikation.\n    - **SMTP**: E-Mail-Versand.\n    - **DNS**: Namensauflösung von IP-Adressen.","x":-1680,"y":-347,"width":560,"height":455},
 		{"id":"78809969f9aea195","type":"file","file":"LF 3/DHCP und WLAN/WLAN.md","x":720,"y":-155,"width":400,"height":400},
 		{"id":"10917caae9434f04","type":"text","text":"### Checklist\n- [x] OSI-Schichtenmodell\n- [x] HexBinDez (ohne Taschenrechner)\n- [x] WLAN\n- [x] WLAN-Sicherheit\n- [x] DHCP und WLAN\n- [ ] IPv4-Adresse\n","x":-1040,"y":200,"width":385,"height":220},
 		{"id":"0c767570fb105c7a","type":"text","text":"- [[Umrechnung Hexadezimal in Binär]]\n\t- HexBinDez\n\t- [[LF 5/App Umrechnung/out/production/App Umrechnung/HexBinDez Ohne Taschenrechner|HexBinDez Ohne Taschenrechner]]","x":-470,"y":140,"width":360,"height":120},
 		{"id":"c26f91e8eea59a42","type":"file","file":"LF 5/App Umrechnung/out/production/App Umrechnung/HexBinDez Ohne Taschenrechner.md","x":-580,"y":420,"width":400,"height":400},
 		{"id":"e90e80c95c8460e8","type":"text","text":"[[IPv4-Adresse]]","x":80,"y":110,"width":250,"height":60},
-		{"id":"51657a47d442846f","type":"file","file":"LF 3/IP-Adressen/IPv4-Adresse.md","x":130,"y":260,"width":400,"height":400}
+		{"id":"51657a47d442846f","type":"file","file":"LF 3/Adressen/IPv4-Adresse.md","x":130,"y":260,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"94a67a60a34cf617","fromNode":"5e15373fd0aa6f11","fromSide":"right","toNode":"dce6ba7a45e0f76e","toSide":"left"},

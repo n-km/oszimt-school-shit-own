@@ -8,10 +8,10 @@
 ## [[_Days]]
 
 ---
-
-
-
-### Dashboard
-
-[[0404 Klausur LF 2.canvas|0404 Klausur LF 2]]
+# Dashboard
+| Dateien                                             | Typ                 |
+| --------------------------------------------------- | ------------------- |
+| [[0404 Klausur LF 2.canvas\|0404 Klausur LF 2]]<br> | Klausurvorbereitung |
+| [[Bootvorgang]]                                     |                     |
+|                                                     |                     |
 

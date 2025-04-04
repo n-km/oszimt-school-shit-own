@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0f96dd39600e3540",
+        "id": "62d594036c0d658e",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef2405a074eeeab",
+            "id": "1a95bae6be0308c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Klausurthemen/LF 2.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LF 2"
-            }
-          },
-          {
-            "id": "1839b0200822b0f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LF 2/VDR Kalkulationen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VDR Kalkulationen"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#8aa7522",
+                "query": "HexBinDe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,53 +168,52 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "card-board:CardBoard": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1839b0200822b0f0",
+  "active": "1a95bae6be0308c1",
   "lastOpenFiles": [
-    "_Klausurthemen/LF 2.md",
+    "LF 2/Bootvorgang.md",
+    "_Days/2025-04-04.md",
+    "[Bootvorgang.md",
     "Home.md",
-    "ToDo List.md",
-    "README.md",
-    "LF 2/VDR Kalkulationen.md",
+    "LF 5/_dateien",
+    "LF 2/Betriebssystem",
+    "LF 3/Sicherheit",
+    "LF 3/Sicherheit/IT-Sicherheitsgrundlagen - Begriffe und Erklärungen.md",
+    "LF 3/OSI/Netzwerkprotokolle.md",
+    "LF 3/OSI",
+    "LF 1/Lernsituationen/Wettbewerbsrecht Digitalwirtschaft.md",
     "_Days/_Days.md",
-    "_Days/2025-03-31.md",
-    "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas",
-    "LF 2/Geräte/Drucker.md",
-    "LF 2/Linux.md",
     "_Days/2025-04-03.md",
+    "_Days/2025-04-02.md",
+    "_Days/2025-04-01.md",
+    "_Days/2025-03-31.md",
+    "_Days/2025-03-14.md",
+    "_Days/2025-03-13.md",
+    "_Days/2025-03-12.md",
+    "_Days/2025-03-11.md",
+    "_Days/2025-03-10.md",
+    "_Days/2025-02-25.md",
+    "_Days/2025-02-17.md",
+    "_Days/2025-01-22.md",
+    "_Days/2025-01-21.md",
+    "_Days/2025-01-20.md",
+    "_Days/2025-01-03.md",
+    "_Days/2024-12-06.md",
+    "_Days/2024-12-05.md",
+    "_Days/2024-12-04.md",
+    "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas",
     "LF 2/Geräte",
-    "Excalidraw/Drawing 2025-04-03 20.29.05.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-03 17.03.22.excalidraw.md",
-    "LF 2/Lizenzen.md",
-    "LF 2/Virtualisierung.md",
-    "2025-04-03.md",
     "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3.canvas",
     "_Klausurthemen/Klausuren/LF 5/0403 Klausur LF 5.canvas",
-    "LF 2/Willenserklärung.md",
-    "LF 3/IP-Adressen/IPv4-Adresse.md",
-    "LF 3/dateien/WLAN-Topologie.pdf",
-    "LF 3/DHCP und WLAN/DHCP und WLAN Zusammenfassung.md",
+    "LF 3/_dateien/WLAN-Topologie.pdf",
     "Excalidraw",
-    "_Klausurthemen/Klausuren/LF 5/0403 Klausur LF 5 - Arrays lernen.md",
-    "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3 - Wiederholungsübungen.md",
-    "_Klausurthemen/LF 3.md",
-    "LF WSK/Rechtsgeschäfte.md",
-    "Sporttheorie/Doping.md",
-    "WSK/Rechtsgeschäfte.md",
-    "LF WSK/Rechts- und Geschäftsfähigkeit.md",
-    "LF 5/Objektdiagramme/OOD.md",
     "LF 5/_images/Pasted image 20250403122341.png",
     "LF 5/Objektdiagramme",
     "LF 5/Java General",
-    "LF 3/dateien/WLAN-Technologie.pdf",
-    "LF 3/IP-Adressen",
-    "LF 3/dateien/WLAN-Grundlagen.pdf",
-    "LF 3/dateien/WLAN-Sicherheit.pdf",
-    "LF 3/DHCP und WLAN",
-    "LF 3W/dateien/Pasted image 20250402123502.png",
+    "LF 3/_dateien/WLAN-Technologie.pdf",
+    "LF 3W/_dateien/Pasted image 20250402123502.png",
     "LF WSK/docs/Pasted image 20250401100135.png",
     "LF WSK/docs/Pasted image 20250331144828.png",
     "LF WSK/docs/Pasted image 20250331144812.png",

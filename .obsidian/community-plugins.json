@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "homepage",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "symbols-prettifier",
+  "markdown-prettifier"
 ]

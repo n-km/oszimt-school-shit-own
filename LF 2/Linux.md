@@ -6,6 +6,13 @@ Im Gegensatz zu Windows ist Linux:
 - **Communities**: Diese Distributionen werden weltweit von Communities weiterentwickelt.
 - **Derivate**: Jede Distribution kann verschiedene Derivate haben, z.B. Kubuntu, Edubuntu, Lubuntu.
 
+(ChatGPT - ▼)
+
+- Sicherheit: Linux ist bekannt für seine hohe Sicherheit und ist weniger anfällig für Viren und Malware im Vergleich zu Windows.
+- Anpassbarkeit: Benutzer können das System und dessen Oberfläche nach ihren Bedürfnissen und Vorlieben anpassen.
+- Stabilität: Linux-Systeme sind in der Regel sehr stabil und erfordern weniger Neustarts, selbst nach wichtigen Systemupdates.
+- Ressourcenschonend: Linux kann auf älterer Hardware effizienter laufen als Windows, wodurch es eine gute Wahl für ältere Computer ist.
+
 ## 2. Mehrbenutzersystem
 - Linux ist ein **Mehrbenutzersystem**, d.h., es gibt verschiedene Benutzer (user), die in Gruppen (groups) organisiert sind.
 - **Zugriffsrechte** werden durch den Administrator (root) gesteuert.
@@ -82,7 +89,29 @@ Benutzer werden in Gruppen organisiert. Die Benutzerrechte werden durch die Date
 Linux ist ein Mehrbenutzersystem, das eine starke Prozessverwaltung bietet. Jeder Prozess hat eine eindeutige Prozess-ID (PID), und du kannst Prozesse mit Tools wie ps, top und kill überwachen und steuern.
 
 ---
+## Wichtige Linux-Kommandos
 
+| Kommando       | Funktion                                                                     |
+| -------------- | ---------------------------------------------------------------------------- |
+| su root        | Wechselt zum Benutzer "root" und fordert die Eingabe des Root-Passworts.     |
+| adduser        | Erstellt einen neuen Benutzer.                                               |
+| passwd         | Ändert das Passwort eines Benutzers.                                         |
+| mkdir          | Erstellt ein neues Verzeichnis.                                              |
+| rmdir          | Löscht ein Verzeichnis.                                                      |
+| cd             | Wechselt in ein Verzeichnis.                                                 |
+| cd ..          | Wechselt in das übergeordnete Verzeichnis.                                   |
+| ls             | Zeigt den Inhalt eines Verzeichnisses an.                                    |
+| ls -R          | Zeigt die komplette Ordnerstruktur rekursiv an.                              |
+| ls -l          | Zeigt Details wie Ordner-/Dateityp und Zugriffsrechte an.                    |
+| dir            | Zeigt den Inhalt eines Verzeichnisses an.                                    |
+| groupadd       | Erstellt eine neue Gruppe.                                                   |
+| usermod        | Ordnet einem Benutzer eine Gruppe zu.                                        |
+| chmod          | Ändert die Zugriffsrechte von Dateien und Verzeichnissen.                    |
+| touch          | Erstellt eine neue Datei.                                                    |
+| cat            | Zeigt den Inhalt einer Datei an.                                             |
+| cat /etc/group | Zeigt die im System angelegten Gruppen und Benutzer an (als root ausführen). |
+
+---
 ## Fazit
 
 Linux bietet eine hohe Flexibilität und Sicherheit durch die Trennung von Benutzerrechten und der Open-Source-Natur. Das Verständnis der Verzeichnisstruktur, Zugriffsrechte und Systemverwaltung ist entscheidend für die Arbeit mit Linux, besonders bei administrativen Aufgaben.

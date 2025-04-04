@@ -5,6 +5,10 @@ God bless us
 ### Momentan benutzte Plug-In's:
 - Kanban
 - Home
+- Markdown Prettifier
+- Symbols Prettifier
+- Iconize
+- Various Complements
 
 ### Einstellungen:
 - Ändern von Erstellung der Daily Note -> ````_Days````

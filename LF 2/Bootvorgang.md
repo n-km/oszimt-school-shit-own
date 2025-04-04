@@ -1,0 +1,32 @@
+
+## Begriffe
+- **(Legacy-) BIOS:** 
+	- Basic Input/Output System, das traditionelle Firmware-Interface für PCs.
+- **UEFI:** 
+	- Unified Extensible Firmware Interface, der moderne Nachfolger von BIOS mit erweiterten Funktionen und besserer Unterstützung für große Festplatten.
+- **Partition:** 
+	- Ein logischer Abschnitt einer Festplatte, der als eigenständige Einheit behandelt wird.
+- **EFI-Systempartition:** 
+	- Eine spezielle Partition auf einem UEFI-System, die Bootloader und andere notwendige Dateien enthält.
+- **POST:** 
+	- Power-On Self Test, ein Selbsttest der Hardware-Komponenten beim Starten des Computers.
+- **Kaltstart:** 
+	- Das Einschalten des Computers aus einem ausgeschalteten Zustand.
+- **CMOS-RAM:** 
+	- Speicher, der zur Speicherung von BIOS-Einstellungen verwendet wird und durch eine Batterie auf dem Motherboard gespeist wird.
+- **MBR:** 
+	- Master Boot Record, der erste Sektor einer Festplatte, der Informationen über die Partitionstabelle und den Bootloader enthält.
+- **Partitionstabelle:** 
+	- Ein Datensatz, der die Aufteilung einer Festplatte in Partitionen beschreibt.
+- **GPT:** 
+	- GUID Partition Table, ein modernes Format für Partitionstabellen, das größere Festplatten und mehr Partitionen unterstützt als MBR.
+- **Bootstrap:** 
+	- Der Prozess des Ladens eines Betriebssystems in den Arbeitsspeicher.
+- **Bootmanager:** 
+	- Ein Programm, das dem Benutzer ermöglicht, zwischen verschiedenen Betriebssystemen zu wählen.
+- **Bootmenü:** 
+	- Ein Menü, das beim Starten des Computers angezeigt wird, um das zu bootende Betriebssystem auszuwählen.
+- **Multi-Boot-System:** 
+	- Ein System, auf dem mehrere Betriebssysteme installiert sind und zwischen denen gewechselt werden kann.
+- **Beep-Codes:** 
+	- Akustische Signale, die vom BIOS während des POST ausgegeben werden, um Fehler anzuzeigen.
