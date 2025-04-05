@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "README"
             }
           }
         ]
@@ -164,13 +164,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas",
-    "Home.md"
+    "Home.md",
+    "_Days/2024-12-04.md",
+    "_Days/2025-01-03.md",
+    "_Days/2025-02-25.md",
+    "_Days/2025-03-14.md",
+    "_Days/2025-04-02.md",
+    "_Days/2025-04-04.md",
+    "README.md",
+    "LF WSK/Sozialversicherung in Deutschland.md",
+    "ToDo List.md",
+    "_Days/2025-04-03.md",
+    "LF WSK/Rechtsgeschäfte.md",
+    "_Klausurthemen/Klausuren/LF 3/0403 Klausur LF 3.canvas",
+    "_Klausurthemen/LF 3.md",
+    "_Klausurthemen/LF 4.md",
+    "_Klausurthemen/LF 5.md",
+    "_Klausurthemen/LF EN.md",
+    "_Klausurthemen/LF WSK.md",
+    "_Days/2025-03-13.md",
+    "LF WSK/Berufsbildungsgesetz (BBiG).md",
+    "LF WSK/Rechts- und Geschäftsfähigkeit.md",
+    "LF WSK/Private Zusatzversicherungen.md",
+    "_Klausurthemen/Klausuren/LF 2/0404 Klausur LF 2.canvas"
   ]
 }

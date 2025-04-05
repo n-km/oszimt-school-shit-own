@@ -3,9 +3,9 @@
 # Guten Tag, Nils 😇 !
 
 ---
-## [[ToDo List]]
 
-## [[_Days]]
+## [📅 Days]([[_Days]])
+
 
 ---
 # Dashboard

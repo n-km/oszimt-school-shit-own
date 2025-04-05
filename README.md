@@ -3,11 +3,8 @@ Obsidian Dateien von FI-A46..
 God bless us 
 
 ### Momentan benutzte Plug-In's:
-- Kanban
+- Excalidraw
 - Home
-- Markdown Prettifier
-- Symbols Prettifier
-- Iconize
 - Various Complements
 
 ### Einstellungen:
@@ -28,7 +25,7 @@ Zum Beispiel:
 
 LF2 und heute ist 14.05.2025
 
-Brnachname wäre **lf21405**
+Brnachname wäre **2025-05-14-lf2**
 
 **Commit message einfach thema oder Datum** 
 
